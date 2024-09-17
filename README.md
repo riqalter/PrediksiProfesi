@@ -4,7 +4,7 @@
 Notebook yang complete :
 
 - [Notebook Data Preposessing](Notebook-Pre.ipynb)
-- [Notebook Mencari Model Terbaik dan di Komparasi dengan Pycaret (Notebook-pycaret)](Notebook-pycaret.ipynb) *baru
+- [Notebook Mencari Model Terbaik dan di Komparasi dengan Pycaret (Notebook-nonDL)](Notebook-nonDL.ipynb) *baru
 - [Notebook WGAN Percobaan Pertama (NotebookVer2) Tensorflow](NotebookVer2.ipynb)
 - [Notebook WGAN komplit dengan finetune Percobaan Kedua (NotebookVer2-torch) Pytorch](NotebookVer2-torch.ipynb) *diupdate
 
