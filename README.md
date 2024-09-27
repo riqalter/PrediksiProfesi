@@ -17,3 +17,11 @@ Perubahan <- (NotebookVer2-torch): (16/09/2024)
 - ReLu -> LeakyReLu
 - RmsProp -> AdamW
 - learning rate (0.0001) -> learning rate (0.00001)
+
+Perubahan <- (NotebookVer2-1): (27/09/2024) 
+
+(WGAN-GP MODEL)
+- input_size 100 -> input_size 128
+- hidden_size 128 -> hidden_size 256
+- optim.adam -> Adamw + weight_decay=1e-4
+- input_size 91 -> input_size 90 (karena perubahan dataset)
