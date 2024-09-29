@@ -27,3 +27,34 @@ Perubahan <- (NotebookVer2-torch-newdataset): (27/09/2024)
 - hidden_size 128 -> hidden_size 256
 - optim.adam -> Adamw + weight_decay=1e-4
 - input_size 91 -> input_size 90 (karena perubahan dataset)
+
+Hyperparameter (NotebookVer2-torch-newdataset) Per 29 September 2024:
+### 1.Hyperparameter WGAN
+```python
+# Define hyperparameters
+input_size =128  # Size of the latent vector (noise)
+hidden_size = 256
+output_size = 90  # Number of features from the dataset (excluding the target variable)
+batch_size = 128
+epochs = 2500
+critic_iterations = 5
+weight_clipping_limit = 0.01
+lr = 0.00001
+```
+
+
+
+### 2.Hyperparameter WGAN-GP
+
+```python
+# Hyperparameters
+input_size = 128  # Size of the noise vector
+hidden_size = 256
+output_size = 90  # Number of features in the dataset (exclude the target column)
+lr = 0.00001  # 1e-5 Learning rate
+batch_size = 128
+n_epochs = 2500
+n_critic = 5  # Critic steps per generator step
+lambda_gp = 10  # Weight for gradient penalty
+```
+> menggunakan early stopping untuk model WGAN-GP
