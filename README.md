@@ -58,3 +58,11 @@ n_critic = 5  # Critic steps per generator step
 lambda_gp = 10  # Weight for gradient penalty
 ```
 > menggunakan early stopping untuk model WGAN-GP
+
+```python
+# Hyperparameters for early stopping
+patience = 1000  # Number of epochs to wait for improvement
+min_delta = 0.001  # Minimum change in the monitored loss to qualify as improvement
+best_loss = float('inf')  # Initialize best loss with a very large number
+early_stop_counter = 0  # Counter to track patience
+```
