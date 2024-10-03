@@ -16,7 +16,7 @@ Notebook yang belum ditest *karena ada masalah dengan software :
 ## Notebook Utama:
 - [Notebook WGAN komplit dengan finetune Percobaan Ketiga (NotebookVer2-torch-newdataset) Pytorch](NotebookVer2-torch-newdataset.ipynb) 
 - [Notebook WGAN komplit dengan struktur dataset baru (NotebookVer2-torch-rework) Pytorch](NotebookVer2-torch-rework.ipynb) *BARU
-- [Notebook Komparasi dengan nonDL dengan struktur dataset baru (Notebook-nonDL-newdataset)](Notebook-nonDL-rework.ipynb)  *BARU
+- [Notebook Komparasi dengan nonDL dengan struktur dataset baru (Notebook-nonDL-rework)](Notebook-nonDL-rework.ipynb)  *BARU
 
 ### Perubahan <- (NotebookVer2-torch): (16/09/2024)
 
