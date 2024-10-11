@@ -1,0 +1,492 @@
+,ID,OKUPASI
+0,Alumni001,System Analyst
+1,Alumni002,Software Quality Assurance Engineer
+2,Alumni003,Software Engineer
+3,Alumni004,Data Engineer
+4,Alumni005,Software Engineer
+5,Alumni006,IT Project Manager
+6,Alumni007,Data Analyst
+7,Alumni008,Network Engineer
+8,Alumni009,Software Quality Assurance Engineer
+9,Alumni010,Graphic Designer
+10,Alumni011,Software Engineer
+11,Alumni012,Software Developer
+12,Alumni013,Software Developer
+13,Alumni014,Software Quality Assurance Engineer
+14,Alumni015,Software Developer
+15,Alumni016,Software Quality Assurance Engineer
+16,Alumni017,Software Quality Assurance Engineer
+17,Alumni018,Data Engineer
+18,Alumni019,Software Engineer
+19,Alumni020,Graphic Designer
+20,Alumni021,Software Quality Assurance Engineer
+21,Alumni022,Software Quality Assurance Engineer
+22,Alumni023,Database Administrator
+23,Alumni024,Cyber Security Analyst
+24,Alumni025,Software Developer
+25,Alumni026,Network Engineer
+26,Alumni027,Software Quality Assurance Engineer
+27,Alumni028,Software Quality Assurance Engineer
+28,Alumni029,Software Quality Assurance Engineer
+29,Alumni030,Software Engineer
+30,Alumni031,Software Quality Assurance Engineer
+31,Alumni032,Software Developer
+32,Alumni033,Software Engineer
+33,Alumni034,Data Analyst
+34,Alumni035,Software Engineer
+35,Alumni036,Data Scientist
+36,Alumni037,Software Engineer
+37,Alumni038,Software Engineer
+38,Alumni039,Software Engineer
+39,Alumni040,Software Quality Assurance Engineer
+40,Alumni041,Software Quality Assurance Engineer
+41,Alumni042,System Analyst
+42,Alumni043,Software Engineer
+43,Alumni044,Data Scientist
+44,Alumni045,Software Developer
+45,Alumni046,Data Engineer
+46,Alumni047,Software Engineer
+47,Alumni048,Software Developer
+48,Alumni049,Software Developer
+49,Alumni050,Software Developer
+50,Alumni051,Graphic Designer
+51,Alumni052,Software Quality Assurance Engineer
+52,Alumni053,Software Developer
+53,Alumni054,Software Developer
+54,Alumni055,Software Developer
+55,Alumni056,Software Quality Assurance Engineer
+56,Alumni057,Software Quality Assurance Engineer
+57,Alumni058,Software Quality Assurance Engineer
+58,Alumni059,Software Developer
+59,Alumni060,Software Developer
+60,Alumni061,Database Administrator
+61,Alumni062,Software Engineer
+62,Alumni063,Software Developer
+63,Alumni064,IT Project Manager
+64,Alumni065,Data Engineer
+65,Alumni066,Software Quality Assurance Engineer
+66,Alumni067,Data Engineer
+67,Alumni068,Software Engineer
+68,Alumni069,Software Developer
+69,Alumni070,Software Developer
+70,Alumni071,Product Designer
+71,Alumni072,System Analyst
+72,Alumni073,Data Analyst
+73,Alumni074,Software Developer
+74,Alumni075,Software Quality Assurance Engineer
+75,Alumni076,Data Analyst
+76,Alumni077,IT Project Manager
+77,Alumni078,Software Quality Assurance Engineer
+78,Alumni079,IT Project Manager
+79,Alumni080,Software Quality Assurance Engineer
+80,Alumni081,Software Quality Assurance Engineer
+81,Alumni082,Database Administrator
+82,Alumni083,Software Quality Assurance Engineer
+83,Alumni084,Software Quality Assurance Engineer
+84,Alumni085,Software Developer
+85,Alumni086,Software Developer
+86,Alumni087,Software Quality Assurance Engineer
+87,Alumni088,Data Scientist
+88,Alumni089,Software Quality Assurance Engineer
+89,Alumni090,Software Engineer
+90,Alumni091,Software Developer
+91,Alumni092,Software Quality Assurance Engineer
+92,Alumni093,Software Developer
+93,Alumni094,Network Security Analyst
+94,Alumni095,Software Engineer
+95,Alumni096,Software Developer
+96,Alumni097,Database Administrator
+97,Alumni098,Software Developer
+98,Alumni099,Software Developer
+99,Alumni100,Software Quality Assurance Engineer
+100,Alumni101,Software Engineer
+101,Alumni102,Database Administrator
+102,Alumni103,Software Engineer
+103,Alumni104,System Analyst
+104,Alumni105,Data Engineer
+105,Alumni106,UI/UX Designer
+106,Alumni107,Software Developer
+107,Alumni108,Software Engineer
+108,Alumni109,Software Quality Assurance Engineer
+109,Alumni110,System Analyst
+110,Alumni111,Software Engineer
+111,Alumni112,IT Project Manager
+112,Alumni113,Data Analyst
+113,Alumni114,System Analyst
+114,Alumni115,Software Engineer
+115,Alumni116,Software Quality Assurance Engineer
+116,Alumni117,Graphic Designer
+117,Alumni118,Software Developer
+118,Alumni119,UI/UX Designer
+119,Alumni120,Graphic Designer
+120,Alumni121,Software Engineer
+121,Alumni122,Software Quality Assurance Engineer
+122,Alumni123,IT Project Manager
+123,Alumni124,Software Engineer
+124,Alumni125,Data Engineer
+125,Alumni126,Software Engineer
+126,Alumni127,System Analyst
+127,Alumni128,Software Developer
+128,Alumni129,Software Developer
+129,Alumni130,Software Quality Assurance Engineer
+130,Alumni131,Product Designer
+131,Alumni132,Software Developer
+132,Alumni133,Software Developer
+133,Alumni134,UI/UX Designer
+134,Alumni135,Software Quality Assurance Engineer
+135,Alumni136,Software Engineer
+136,Alumni137,Data Engineer
+137,Alumni138,Software Developer
+138,Alumni139,Software Engineer
+139,Alumni140,Software Developer
+140,Alumni141,IT Project Manager
+141,Alumni142,IT Project Manager
+142,Alumni143,System Analyst
+143,Alumni144,Software Engineer
+144,Alumni145,Software Engineer
+145,Alumni146,Network Engineer
+146,Alumni147,Software Engineer
+147,Alumni148,Software Developer
+148,Alumni149,Software Developer
+149,Alumni150,Software Developer
+150,Alumni151,Software Engineer
+151,Alumni152,Network Engineer
+152,Alumni153,Data Analyst
+153,Alumni154,Software Engineer
+154,Alumni155,UI/UX Designer
+155,Alumni156,Software Engineer
+156,Alumni157,Software Quality Assurance Engineer
+157,Alumni158,Software Developer
+158,Alumni159,Software Developer
+159,Alumni160,Software Quality Assurance Engineer
+160,Alumni161,Data Engineer
+161,Alumni162,Software Quality Assurance Engineer
+162,Alumni163,Data Analyst
+163,Alumni164,UI/UX Designer
+164,Alumni165,IT Project Manager
+165,Alumni166,IT Project Manager
+166,Alumni167,Software Developer
+167,Alumni168,UI/UX Designer
+168,Alumni169,Network Security Engineer
+169,Alumni170,Data Analyst
+170,Alumni171,Software Developer
+171,Alumni172,Network Security Engineer
+172,Alumni173,Software Developer
+173,Alumni174,System Analyst
+174,Alumni175,Network Security Analyst
+175,Alumni176,Software Quality Assurance Engineer
+176,Alumni177,Software Quality Assurance Engineer
+177,Alumni178,Software Quality Assurance Engineer
+178,Alumni179,Software Developer
+179,Alumni180,Data Engineer
+180,Alumni181,Software Quality Assurance Engineer
+181,Alumni182,Software Quality Assurance Engineer
+182,Alumni183,Software Developer
+183,Alumni184,Software Developer
+184,Alumni185,Software Developer
+185,Alumni186,Software Quality Assurance Engineer
+186,Alumni187,UI/UX Designer
+187,Alumni188,Data Engineer
+188,Alumni189,UI/UX Designer
+189,Alumni190,Network Engineer
+190,Alumni191,Data Engineer
+191,Alumni192,Software Engineer
+192,Alumni193,Database Administrator
+193,Alumni194,Software Quality Assurance Engineer
+194,Alumni195,UI/UX Designer
+195,Alumni196,Software Developer
+196,Alumni197,Software Engineer
+197,Alumni198,Database Administrator
+198,Alumni199,Software Developer
+199,Alumni200,Software Developer
+200,Alumni201,Data Analyst
+201,Alumni202,System Analyst
+202,Alumni203,Software Developer
+203,Alumni204,Network Engineer
+204,Alumni205,Software Engineer
+205,Alumni206,Network Engineer
+206,Alumni207,Software Engineer
+207,Alumni208,System Analyst
+208,Alumni209,Software Developer
+209,Alumni210,Software Quality Assurance Engineer
+210,Alumni211,Software Developer
+211,Alumni212,Software Developer
+212,Alumni213,Graphic Designer
+213,Alumni214,Software Developer
+214,Alumni215,Software Developer
+215,Alumni216,Software Quality Assurance Engineer
+216,Alumni217,Software Quality Assurance Engineer
+217,Alumni218,UI/UX Designer
+218,Alumni219,Software Developer
+219,Alumni220,Software Engineer
+220,Alumni221,System Analyst
+221,Alumni222,Software Developer
+222,Alumni223,Software Engineer
+223,Alumni224,Database Administrator
+224,Alumni225,Software Quality Assurance Engineer
+225,Alumni226,Software Developer
+226,Alumni227,Data Engineer
+227,Alumni228,Software Engineer
+228,Alumni229,Software Developer
+229,Alumni230,Software Developer
+230,Alumni231,Software Developer
+231,Alumni232,Software Engineer
+232,Alumni233,Software Engineer
+233,Alumni234,Software Quality Assurance Engineer
+234,Alumni235,Software Developer
+235,Alumni236,Software Developer
+236,Alumni237,Data Engineer
+237,Alumni238,Software Developer
+238,Alumni239,Software Engineer
+239,Alumni240,Software Developer
+240,Alumni241,Software Quality Assurance Engineer
+241,Alumni242,Software Engineer
+242,Alumni243,UI/UX Designer
+243,Alumni244,Software Engineer
+244,Alumni245,Network Security Analyst
+245,Alumni246,Network Engineer
+246,Alumni247,Graphic Designer
+247,Alumni248,Network Security Engineer
+248,Alumni249,Software Developer
+249,Alumni250,Network Security Engineer
+250,Alumni251,Network Engineer
+251,Alumni252,Software Quality Assurance Engineer
+252,Alumni253,Software Quality Assurance Engineer
+253,Alumni254,Software Developer
+254,Alumni255,Software Developer
+255,Alumni256,Software Developer
+256,Alumni257,Data Analyst
+257,Alumni258,Product Designer
+258,Alumni259,Software Engineer
+259,Alumni260,Software Developer
+260,Alumni261,Software Developer
+261,Alumni262,Software Engineer
+262,Alumni263,Software Developer
+263,Alumni264,Software Engineer
+264,Alumni265,System Analyst
+265,Alumni266,System Analyst
+266,Alumni267,Software Engineer
+267,Alumni268,Network Security Analyst
+268,Alumni269,Software Engineer
+269,Alumni270,Data Analyst
+270,Alumni271,Software Developer
+271,Alumni272,Software Quality Assurance Engineer
+272,Alumni273,Database Administrator
+273,Alumni274,System Analyst
+274,Alumni275,Software Quality Assurance Engineer
+275,Alumni276,Network Security Analyst
+276,Alumni277,Software Developer
+277,Alumni278,Software Developer
+278,Alumni279,Software Developer
+279,Alumni280,Software Developer
+280,Alumni281,Software Quality Assurance Engineer
+281,Alumni282,Software Engineer
+282,Alumni283,Software Developer
+283,Alumni284,Software Quality Assurance Engineer
+284,Alumni285,IT Project Manager
+285,Alumni286,Software Engineer
+286,Alumni287,Software Developer
+287,Alumni288,System Analyst
+288,Alumni289,Software Engineer
+289,Alumni290,Software Quality Assurance Engineer
+290,Alumni291,UI/UX Designer
+291,Alumni292,Software Engineer
+292,Alumni293,Data Engineer
+293,Alumni294,Software Quality Assurance Engineer
+294,Alumni295,Software Engineer
+295,Alumni296,IT Project Manager
+296,Alumni297,Database Administrator
+297,Alumni298,Data Analyst
+298,Alumni299,Software Engineer
+299,Alumni300,Software Developer
+300,Alumni301,System Analyst
+301,Alumni302,Software Developer
+302,Alumni303,Software Quality Assurance Engineer
+303,Alumni304,Data Analyst
+304,Alumni305,IT Project Manager
+305,Alumni306,Data Analyst
+306,Alumni307,Software Quality Assurance Engineer
+307,Alumni308,Software Quality Assurance Engineer
+308,Alumni309,Software Developer
+309,Alumni310,Software Developer
+310,Alumni311,IT Project Manager
+311,Alumni312,Software Quality Assurance Engineer
+312,Alumni313,UI/UX Designer
+313,Alumni314,IT Project Manager
+314,Alumni315,Software Developer
+315,Alumni316,Software Engineer
+316,Alumni317,Software Developer
+317,Alumni318,Software Quality Assurance Engineer
+318,Alumni319,Data Analyst
+319,Alumni320,Software Developer
+320,Alumni321,Software Quality Assurance Engineer
+321,Alumni322,Software Developer
+322,Alumni323,Software Developer
+323,Alumni324,Network Security Analyst
+324,Alumni325,Software Engineer
+325,Alumni326,System Analyst
+326,Alumni327,Software Quality Assurance Engineer
+327,Alumni328,Software Developer
+328,Alumni329,Software Developer
+329,Alumni330,Software Developer
+330,Alumni331,UI/UX Designer
+331,Alumni332,Software Developer
+332,Alumni333,Network Security Analyst
+333,Alumni334,IT Project Manager
+334,Alumni335,Data Scientist
+335,Alumni336,Data Analyst
+336,Alumni337,Software Developer
+337,Alumni338,Software Engineer
+338,Alumni339,Software Engineer
+339,Alumni340,Software Quality Assurance Engineer
+340,Alumni341,System Analyst
+341,Alumni342,Software Engineer
+342,Alumni343,Software Engineer
+343,Alumni344,Network Engineer
+344,Alumni345,IT Project Manager
+345,Alumni346,Software Quality Assurance Engineer
+346,Alumni347,Software Engineer
+347,Alumni348,Database Administrator
+348,Alumni349,Software Developer
+349,Alumni350,Software Engineer
+350,Alumni351,IT Project Manager
+351,Alumni352,System Analyst
+352,Alumni353,Graphic Designer
+353,Alumni354,Software Developer
+354,Alumni355,Software Developer
+355,Alumni356,Graphic Designer
+356,Alumni357,Software Engineer
+357,Alumni358,Software Developer
+358,Alumni359,Graphic Designer
+359,Alumni360,Software Developer
+360,Alumni361,Software Developer
+361,Alumni362,Software Engineer
+362,Alumni363,IT Project Manager
+363,Alumni364,Software Engineer
+364,Alumni365,System Analyst
+365,Alumni366,Data Engineer
+366,Alumni367,Software Developer
+367,Alumni368,IT Project Manager
+368,Alumni369,Software Quality Assurance Engineer
+369,Alumni370,Data Analyst
+370,Alumni371,Software Quality Assurance Engineer
+371,Alumni372,Software Developer
+372,Alumni373,Data Analyst
+373,Alumni374,IT Project Manager
+374,Alumni375,Software Engineer
+375,Alumni376,Network Security Analyst
+376,Alumni377,Software Engineer
+377,Alumni378,Database Administrator
+378,Alumni379,UI/UX Designer
+379,Alumni380,Software Developer
+380,Alumni381,Software Developer
+381,Alumni382,Software Engineer
+382,Alumni383,Graphic Designer
+383,Alumni384,Software Developer
+384,Alumni385,Software Engineer
+385,Alumni386,Software Developer
+386,Alumni387,Software Developer
+387,Alumni388,Software Engineer
+388,Alumni389,Software Developer
+389,Alumni390,Data Analyst
+390,Alumni391,Data Scientist
+391,Alumni392,Data Analyst
+392,Alumni393,Software Engineer
+393,Alumni394,Software Engineer
+394,Alumni395,Software Developer
+395,Alumni396,Data Analyst
+396,Alumni397,Software Developer
+397,Alumni398,Data Analyst
+398,Alumni399,Data Analyst
+399,Alumni400,Software Developer
+400,Alumni401,Software Developer
+401,Alumni402,Software Developer
+402,Alumni403,System Analyst
+403,Alumni404,Network Security Analyst
+404,Alumni405,Software Engineer
+405,Alumni406,Software Developer
+406,Alumni407,Software Developer
+407,Alumni408,Software Engineer
+408,Alumni409,Software Developer
+409,Alumni410,Network Security Analyst
+410,Alumni411,Software Developer
+411,Alumni412,Data Analyst
+412,Alumni413,Software Engineer
+413,Alumni414,Software Developer
+414,Alumni415,Software Developer
+415,Alumni416,Network Security Analyst
+416,Alumni417,Software Developer
+417,Alumni418,Software Developer
+418,Alumni419,Data Analyst
+419,Alumni420,Cyber Security Analyst
+420,Alumni421,System Analyst
+421,Alumni422,Software Engineer
+422,Alumni423,Data Analyst
+423,Alumni424,Software Engineer
+424,Alumni425,Software Engineer
+425,Alumni426,Cyber Security Analyst
+426,Alumni427,Software Developer
+427,Alumni428,Network Security Engineer
+428,Alumni429,Software Engineer
+429,Alumni430,Software Developer
+430,Alumni431,Network Engineer
+431,Alumni432,Software Developer
+432,Alumni433,Network Engineer
+433,Alumni434,Software Developer
+434,Alumni435,Network Engineer
+435,Alumni436,Software Developer
+436,Alumni437,Software Engineer
+437,Alumni438,Software Quality Assurance Engineer
+438,Alumni439,Software Developer
+439,Alumni440,Software Engineer
+440,Alumni441,Software Developer
+441,Alumni442,System Analyst
+442,Alumni443,Software Developer
+443,Alumni444,Software Developer
+444,Alumni445,Software Developer
+445,Alumni446,Software Developer
+446,Alumni447,Software Developer
+447,Alumni448,Software Engineer
+448,Alumni449,Software Quality Assurance Engineer
+449,Alumni450,Software Engineer
+450,Alumni451,Software Engineer
+451,Alumni452,Software Developer
+452,Alumni453,Software Developer
+453,Alumni454,Software Developer
+454,Alumni455,Data Analyst
+455,Alumni456,Software Developer
+456,Alumni457,Software Engineer
+457,Alumni458,Software Quality Assurance Engineer
+458,Alumni459,Software Engineer
+459,Alumni460,Software Quality Assurance Engineer
+460,Alumni461,Software Developer
+461,Alumni462,Software Developer
+462,Alumni463,Software Engineer
+463,Alumni464,Graphic Designer
+464,Alumni465,Software Developer
+465,Alumni466,Graphic Designer
+466,Alumni467,Software Developer
+467,Alumni468,Software Quality Assurance Engineer
+468,Alumni469,Data Analyst
+469,Alumni470,Software Quality Assurance Engineer
+470,Alumni471,Software Developer
+471,Alumni472,Software Developer
+472,Alumni473,Network Security Engineer
+473,Alumni474,Data Analyst
+474,Alumni475,Graphic Designer
+475,Alumni476,Software Developer
+476,Alumni477,Database Administrator
+477,Alumni478,Data Analyst
+478,Alumni479,Data Scientist
+479,Alumni480,UI/UX Designer
+480,Alumni481,Data Analyst
+481,Alumni482,Data Engineer
+482,Alumni483,Software Developer
+483,Alumni484,Software Developer
+484,Alumni485,Software Developer
+485,Alumni486,Software Developer
+486,Alumni487,Software Quality Assurance Engineer
+487,Alumni488,Software Engineer
+488,Alumni489,Software Engineer
+489,Alumni490,System Analyst
+490,Alumni491,Software Quality Assurance Engineer
